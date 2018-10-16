@@ -1,0 +1,13 @@
+.form-position {
+position: relative !important;
+left: 500px !important;
+top: 56px !important;    
+}
+
+body {
+background-image: url("../img/background-registro.jpg");
+}
+
+td{
+	color: rgb(255, 255, 255) !important;
+}
